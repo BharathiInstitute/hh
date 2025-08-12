@@ -17,7 +17,7 @@ class MainApp extends StatelessWidget {
             children: [
               Text('Hello World!'),
               SizedBox(height: 16),
-              Text('New text'), // Added new text here
+              Text('New textlkjulkjlkjlk'), // Added new text here
               Text('Another added text'), // Newly added line
               Text('Added a text'), // Newly added as per request
             ],
