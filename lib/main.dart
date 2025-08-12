@@ -19,6 +19,7 @@ class MainApp extends StatelessWidget {
               SizedBox(height: 16),
               Text('New text'), // Added new text here
               Text('Another added text'), // Newly added line
+              Text('Added a text'), // Newly added as per request
             ],
           ),
         ),
