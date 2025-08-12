@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-
+//hihello
 void main() {
   runApp(const MainApp());
 }
@@ -18,6 +18,7 @@ class MainApp extends StatelessWidget {
               Text('Hello World!'),
               SizedBox(height: 16),
               Text('New text'), // Added new text here
+              Text('Another added text'), // Newly added line
             ],
           ),
         ),
